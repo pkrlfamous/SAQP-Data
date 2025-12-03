@@ -1,3 +1,2 @@
-# SAQP-Data
-
-This repository has the QPS result of Secure Approximate Query Processing using the Private Blockchain(SAQP) in hyperledger fabric.
+# SAQP-DATA
+This repository contains performance measurements of queries per second and block creation time in a multi-organizational Hyperledger Fabric network.
